@@ -7,8 +7,6 @@ import java.util.*;
 import java.util.regex.*;
 
 public class Main {
-
-    // ТОЧКА ВХОДА
     
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
